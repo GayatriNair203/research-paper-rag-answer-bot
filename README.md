@@ -1,2 +1,3 @@
-# research-paper-rag-answer-bot
-Built a RAG-based research assistant that indexes AI research papers into a vector database and answers user queries with source-grounded responses. Evaluated multiple embedding models and retrieval strategies to optimize answer relevance and transparency.
+This project builds a Research Paper Answer Bot using RAG (Retrieval-Augmented Generation) to answer questions grounded in Generative AI and LLM research papers.
+The system indexes research PDFs into a vector database, experiments with multiple embedding models and retrieval strategies, and generates responses with source attribution.
+Designed to simulate an ArXiv-like intelligent assistant that helps users query complex research literature efficiently and reliably.
